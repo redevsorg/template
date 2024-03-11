@@ -1,6 +1,6 @@
 ---
 title: 'Centralized Authentication'
-status: 'draft'
+status: 'published'
 author:
   name: 'sahith'
   picture: 'https://avatars.githubusercontent.com/u/78869400?v=4'

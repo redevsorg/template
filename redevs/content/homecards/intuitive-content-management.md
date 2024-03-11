@@ -4,7 +4,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/78869400?v=4'
 coverImage: ''
 title: 'Intuitive Content Management'
-status: 'draft'
+status: 'published'
 slug: 'intuitive-content-management'
 description: ''
 publishedAt: '2024-03-11T00:33:19.667Z'

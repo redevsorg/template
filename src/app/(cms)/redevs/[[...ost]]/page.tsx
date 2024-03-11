@@ -1,4 +1,4 @@
-import 'redevs/outstatic.css'
+import 'redevsmanage/outstatic.css'
 import { Outstatic } from 'redevsmanage'
 import { OstClient } from 'redevsmanage/client'
 

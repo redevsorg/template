@@ -10,4 +10,4 @@ coverImage: ''
 publishedAt: '2024-03-11T00:37:44.853Z'
 ---
 
-Our authentication, from site development and deployment to content management, is based on [*GitHub*](https://github.com/). **GitHub OAuth** easily allows clients to deploy to Vercel and use our CMS. We plan to make our own authentication portal in the future.
+Our authentication, from site development and deployment to content management, is based on [*GitHub*](https://github.com/). **GitHub OAuth** Apps easily allow clients to deploy to Vercel and use our CMS. We plan to make our own authentication portal in the future.
